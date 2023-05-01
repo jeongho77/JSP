@@ -52,7 +52,7 @@
               		<td><% for(int i = 0;i<hobby.length;i++){ %>
 											<% out.print(hobby[i]); %><br>
          							<% }  %>
-         					<td>
-              		
+         					</tr>
+           		</tbody>
 </body>
 </html>
